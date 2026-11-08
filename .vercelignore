@@ -1,0 +1,11 @@
+# Jangan upload rahasia / artefak lokal
+.env
+.env.*
+!.env.example
+
+node_modules
+dist
+*.log
+.DS_Store
+.vercel
+README.md
